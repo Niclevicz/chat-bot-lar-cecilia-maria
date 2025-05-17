@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+}
+
+button {
+  background-color: transparent;
+  cursor: pointer;
+}

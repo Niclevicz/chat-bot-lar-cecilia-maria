@@ -1,0 +1,345 @@
+1
+NICO ROBIN
+Espécie: Cachorro
+Sexo: Fêmea
+Raça: Sem raça definida
+Idade: 8 anos
+Porte: Médio
+Descrição física: Pelagem branca com manchas pretas, orelhas pretas, focinho escuro, olhos castanho-escuros.
+Personalidade: Dócil, calma, sociável com crianças e outros animais.
+História: Nico Robin foi deixada para trás quando seus tutores se mudaram e não a incluíram na nova fase da vida. Isso já faz 4 anos, e ela ainda mantém sua doçura, alegria e companheirismo.
+Vacinas: V8, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+2
+SASHA BRAUS
+Espécie: Cachorro
+Sexo: Fêmea
+Idade: 4 meses
+Porte: Pequeno (filhote, em desenvolvimento)
+Descrição física: Filhote preta e branca, olhos expressivos e manchinhas nas patas.
+Personalidade: Alegre, curiosa, brincalhona e comilona. Muito sociável com crianças e adultos.
+História: Sasha foi encontrada nas ruas com sua mãezinha e seus irmãozinhos logo após o nascimento.
+Vacinas: V8 (filhote), antirrábica e giárdia. Vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+3
+SAITAMA
+Espécie: Cachorro
+Sexo: Macho
+Idade: 9 anos
+Porte: Médio
+Descrição física: Pelagem marrom, focinho escuro, olhos castanhos.
+Personalidade: Cheio de energia, companheiro e territorialista. Ideal para ser o único pet da casa.
+História: Foi acolhido pela ONG após o falecimento de seu tutor.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+4
+MONKEY D. LUFFY
+Espécie: Cachorro
+Sexo: Macho
+Idade: 5 anos
+Porte: Médio
+Descrição física: Pelagem dourada.
+Personalidade: Alegre, amoroso, sociável, protetor e cheio de energia.
+História: Resgatado de um lar denunciado por maus-tratos.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+5
+KUREHA
+Espécie: Cachorro
+Sexo: Fêmea
+Idade: 13 anos
+Porte: Pequeno
+Descrição física: Idosa, pequena, com sinais da idade.
+Personalidade: Amorosa, calma, ideal para um lar tranquilo.
+História: Resgatada das ruas.
+Vacinas: V8, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+6
+VEGETA
+Espécie: Cachorro
+Sexo: Macho
+Idade: 10 anos
+Porte: Médio
+Descrição física: Pelagem escura, porte médio.
+Personalidade: Medroso, sensível à chuva, não agressivo. Sociável com animais.
+História: Vítima de maus-tratos, está em reabilitação. ONG oferece assistência nos 3 primeiros meses.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Sim
+
+7
+GOHAN
+Espécie: Cachorro
+Sexo: Macho
+Idade: 8 anos
+Porte: Médio
+Personalidade: Calmo, amoroso, sociável, adora crianças.
+História: Resgatado das ruas.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+8
+MIKASA ACKERMAN
+Espécie: Cachorro
+Sexo: Fêmea
+Idade: 5 anos
+Porte: Médio
+Personalidade: Amorosa, protetora.
+História: Resgatada junto com Levi, seu irmão. Indicada para famílias com crianças.
+Vacinas: V8, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+9
+GOKU
+Espécie: Cachorro
+Sexo: Macho
+Idade: 10 anos
+Porte: Médio
+Personalidade: Dócil, calmo e preguiçoso. Ideal para lares tranquilos.
+História: Resgatado das ruas.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+10
+KURIRIN
+Espécie: Cachorro
+Sexo: Macho
+Idade: 7 anos
+Porte: Grande
+Descrição física: Cego de um olho, outro com sequelas estéticas.
+Personalidade: Medroso, manhoso e assustado, mas não agressivo.
+História: Resgatado após denúncia de maus-tratos.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Sim
+
+11
+KAZUMA SATO
+Espécie: Cachorro
+Sexo: Macho
+Idade: 3 meses
+Porte: Médio
+Descrição física: Pelagem preta com marcações caramelo.
+Personalidade: Alegre, brincalhão, explorador e sociável com adultos e crianças.
+História: Kazuma nasceu na ONG, em ambiente seguro e acolhedor.
+Vacinas: 1ª dose de V8. Ainda não castrado nem vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+12
+INOSUKE HASHIBIRA
+Espécie: Cachorro
+Sexo: Macho
+Idade: 10 anos
+Porte: Médio
+Descrição física: Pelagem curta e escura com áreas grisalhas.
+Personalidade: Dócil, amoroso e brincalhão. Gosta de correr e interagir.
+História: Resgatado das ruas.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+13
+NEZUKO KAMADO
+Espécie: Cachorro
+Sexo: Fêmea
+Idade: 10 anos
+Porte: Médio
+Personalidade: Amorosa e extremamente apegada a pessoas. Territorialista em relação a outros animais.
+História: Resgatada das ruas.
+Vacinas: V8, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+14
+ZENITSU AGATSUMA
+Espécie: Cachorro
+Sexo: Macho
+Idade: 9 anos
+Porte: Pequeno
+Personalidade: Alegre, brincalhão, medroso (especialmente com chuvas).
+História: Encontrado nas ruas.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+15
+TANJIRŌ KAMADO
+Espécie: Cachorro
+Sexo: Macho
+Idade: 4 meses
+Médio
+Personalidade: Amoroso, participativo e sociável.
+História: Resgatado ainda filhote com sua mãe e irmãos nas ruas.
+Vacinas: 1ª dose de V8. Ainda não castrado nem vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+16
+TONY TONY CHOPPER
+Espécie: Cachorro
+Sexo: Macho
+Idade: 4 meses
+Médio
+Personalidade: Carinhoso, curioso e brincalhão.
+História: Resgatado ainda recém-nascido com a mãe e irmãos.
+Vacinas: 1ª dose de V8. Ainda não castrado nem vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+17
+MISTY
+Espécie: Gato
+Sexo: Fêmea
+Idade: 2 anos
+Porte: Médio 
+Personalidade: Calma, gosta de ficar no seu canto, territorialista apenas com sua caminha.
+História: Entregue à ONG sem justificativa aparente.
+Vacinas: Tríplice felina, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+18
+OLIVIER MIRA ARMSTRONG
+Espécie: Gato
+Sexo: Fêmea
+Idade: 1 ano
+Porte: Médio
+Personalidade: Tranquila, reservada, gosta de observar, aceita carinho quando quer.
+História: Resgatada das ruas.
+Vacinas: Tríplice felina, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+19
+ROY MUSTANG
+Espécie: Gato
+Sexo: Macho
+Idade: 4 anos
+Porte: Médio
+Personalidade: Líder, territorialista, não gosta de dividir espaço com outros animais.
+História: Resgatado das ruas.
+Vacinas: Tríplice felina, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+20
+BULMA
+Espécie: Cachorro
+Sexo: Fêmea
+Idade: 13 anos
+Porte: Pequeno
+Descrição física: Cega dos dois olhos.
+Personalidade: Amorosa, calma, companheira.
+História: Resgatada das ruas.
+Vacinas: V8, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+21
+KENTO NANAMI
+Espécie: Gato
+Sexo: Macho
+Idade: 4 meses
+Porte: Médio
+Descrição física: Preto e branco, olhos azuis.
+Personalidade: Fofo, explorador, esperto e carinhoso.
+História: Resgatado com a mãe e irmãos logo após o nascimento nas ruas.
+Vacinas: 1ª dose da tríplice felina. Ainda não castrado nem vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+22
+HIMMEL
+Espécie: Gato
+Sexo: Macho
+Idade: 4 meses
+Porte: Médio
+Descrição física: Pelagem clara com extremidades mais escuras.
+Personalidade: Fofo, explorador, esperto e carinhoso.
+História: Resgatado com a mãe e irmãos logo após o nascimento nas ruas.
+Vacinas: 1ª dose da tríplice felina. Ainda não castrado nem vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+23
+SHIRYU
+Espécie: Gato
+Sexo: Macho
+Idade: 3 anos
+Porte: Médio
+Descrição física: Nariz assimétrico por infecção, FIV positivo.
+Personalidade: Territorialista, reservado com estranhos, leal com quem confia.
+História: Foi encontrado em estado crítico com uma bactéria que deformou seu nariz. Diagnosticado com FIV. Passou por 3 meses de tratamento e se recuperou.
+Vacinas: Tríplice felina, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Sim
+
+24
+SAORI KIDO
+Espécie: Gato
+Sexo: Fêmea
+Idade: 1 ano
+Porte: Médio
+Personalidade: Tranquila, não gosta de aproximações bruscas, não é territorialista.
+História: Entregue à ONG. Observadora, aproxima-se quando quer.
+Vacinas: Tríplice felina, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+25
+SATORU GOJO
+Espécie: Gato
+Sexo: Macho
+Idade: 3 anos
+Porte: Médio
+Personalidade: Reservado, prefere observar e se aproximar no próprio tempo.
+História: Resgatado das ruas. Convive bem com outros gatos desde que respeitado.
+Vacinas: Tríplice felina, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+26
+TRUNKS BRIEFS
+Espécie: Gato
+Sexo: Macho
+Idade: 5 meses
+Porte: Médio
+Personalidade: Inteligente, sociável e cheio de energia.
+História: Resgatado das ruas ainda filhote, junto com outros irmãos.
+Vacinas: 1ª dose tríplice felina. Ainda não castrado nem vermifugado.
+CORAÇÃO COM BURAQUINHOS: Não
+
+27
+KANNA KAMUI
+Espécie: Gato
+Sexo: Fêmea
+Idade: 1 ano
+Porte: Médio
+Descrição física: Pequena, anda de forma diferente.
+Personalidade: Curiosa, afetuosa e muito especial.
+História: Sofreu agressão humana que causou problemas neurológicos permanentes. É dependente de um ambiente adaptado, mas muito amorosa.
+Vacinas: Tríplice felina, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Sim
+
+28
+NEFERTARI VIVI
+Espécie: Cachorro
+Sexo: Fêmea
+Idade: 4 meses
+Porte: Médio
+Personalidade: Carinhosa, curiosa e cheia de energia.
+História: Resgatada com mãe e irmãos nas ruas.
+Vacinas: 1ª dose de V8. Ainda não castrada nem vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+29
+FRIEREN
+Espécie: Cachorro
+Sexo: Fêmea
+Idade: 4 anos
+Porte: Pequeno
+Personalidade: Dócil, amorosa, preguiçosa, tem medo de chuva.
+História: Resgatada das ruas, ideal para lares calmos com idosos ou crianças.
+Vacinas: V8, antirrábica e giárdia. Castrada e vermifugada.
+CORAÇÃO COM BURAQUINHOS: Não
+
+30
+LEVI ACKERMAN
+Espécie: Cachorro
+Sexo: Macho
+Idade: 5 anos
+Porte: Médio
+Descrição física: Cadeirante por conta de atropelamento.
+Personalidade: Medroso com estímulos, escolhe seu vínculo.
+História: Atropelado sem socorro, ficou com limitações motoras permanentes. ONG oferece suporte na adaptação.
+Vacinas: V8, antirrábica e giárdia. Castrado e vermifugado.
+CORAÇÃO COM BURAQUINHOS: Sim
