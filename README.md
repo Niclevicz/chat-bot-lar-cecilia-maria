@@ -12,7 +12,7 @@ Este projeto é um chatbot interativo desenvolvido com Python e Flask para facil
 ### 📁 Estrutura do Projeto
 
 
-ˋˋˋbash
+~~~bash
 Projeto/
 ├── static/
 │   └── styles.css         # (Se houver)
@@ -22,40 +22,40 @@ Projeto/
 ├── .env                   # Chave da API (não incluído no repositório)
 ├── requirements.txt       # Dependências do projeto
 └── README.md              # Este arquivo
-ˋˋˋ
+~~~
 
 ### ✅ Pré-requisitos
 1. Python instalado (recomenda-se usar um ambiente virtual).
 2. Criar um arquivo .env com sua chave da API do Gemini:
 
-ˋˋˋenv
+~~~env
 GOOGLE_API_KEY=sua_chave_aqui
-ˋˋˋ
+~~~
 
 ### ⚙️ Como Executar o Projeto
 1. Clone o repositório
-ˋˋˋbash
+~~~bash
 git clone https://github.com/seuusuario/seu-repositorio.git
 cd seu-repositorio
-ˋˋˋ
+~~~
 2. Crie e ative um ambiente virtual (opcional, mas recomendado)
-ˋˋˋbash
+~~~bash
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
-ˋˋˋ
+~~~
 3. Instale as dependências
-ˋˋˋbash
+~~~bash
 pip install -r requirements.txt
-ˋˋˋ
+~~~
 4. Execute a aplicação Flask
-ˋˋˋbash
+~~~bash
 python app.py
-ˋˋˋ
+~~~
 Se tudo estiver correto, a aplicação estará disponível em:
-ˋˋˋcpp
+~~~cpp
 http://127.0.0.1:5000
-ˋˋˋ
+~~~
 
 ### 💻 Acessar a Interface
 Após iniciar o Flask, abra seu navegador e acesse:
